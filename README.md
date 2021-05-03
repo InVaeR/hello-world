@@ -1,4 +1,4 @@
 # hello-world
 My first repository
-
-About Me
+//
+Мой первый репозиторий
